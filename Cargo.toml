@@ -1,7 +1,7 @@
 [package]
 name = "ark_example_project"
 version = "0.1.0"
-authors = ["Andrew Walz <andrewjwalz@gmail.com>"]
+authors = ["Ian"]
 
 [dependencies]
 ark = "0.1.1"
