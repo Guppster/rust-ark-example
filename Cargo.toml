@@ -1,0 +1,8 @@
+[package]
+name = "ark_example_project"
+version = "0.1.0"
+authors = ["Andrew Walz <andrewjwalz@gmail.com>"]
+
+[dependencies]
+ark = "0.1.1"
+term-painter = "0.2.4"
